@@ -32,5 +32,5 @@ This project explores how reinforcement learning can be used to recommend person
 ## 📢 Follow the Journey
 
 I’m documenting this entire process on Twitter and Medium.  
-Come learn with me → [@yourTwitterHandle]
+Come learn with me → [@homiyano]
 
